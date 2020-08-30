@@ -1,0 +1,6 @@
+framework module Pods_OxiTests {
+  umbrella header "Pods-OxiTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_Oxi_OxiUITests {
+  umbrella header "Pods-Oxi-OxiUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
